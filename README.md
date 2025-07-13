@@ -4,6 +4,6 @@ Here you can find supporting files that do not necessarily belong in the CA subm
 
 What can you find here? 
 
-- Old versions of my code
-- My written notes taken during the process of this CA
-
+- Old versions of my code.
+- My written notes taken during the process of this CA.
+- A HTML export of my python code with outputs. 
